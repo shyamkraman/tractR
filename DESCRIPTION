@@ -1,10 +1,10 @@
 Package: tractR
-Title: What the Package Does (one line, title case)
+Title: Retrieving Census Geographies From Coordinates
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person(“Shyam”, “Raman”, email = “ramansh@iu.edu”, role = c("aut", "cre"))
+Description: tractR is a package which allows the user to parse a data frame of coordinates with state identifiers and produce a new data frame with census geographies (tracts or tracts+blocks) using TIGER shapefiles.
 Depends: R (>= 3.5.3)
-License: What license is it under?
+License: No License
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1.9000
